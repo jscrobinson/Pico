@@ -1,3 +1,4 @@
+.svn
 composer.lock
 composer.phar
 vendor/twig/twig/doc/*
